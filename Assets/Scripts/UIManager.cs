@@ -113,7 +113,7 @@ public class UIManager : MonoBehaviour
 		Application.LoadLevel(0);
     }
 
-	public void LoadAbout()
+	public void LoadAboutMenu()
     {
 		Application.LoadLevel(2);
     }

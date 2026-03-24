@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 74c2d6b746b06364aa52b11366a14443
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4067331649436871237
+    second: Solaria Crops DEMO_0
+  - first:
+      213: -8891576911292042033
+    second: Solaria Crops DEMO_1
+  - first:
+      213: 3989102433688500459
+    second: Solaria Crops DEMO_2
+  - first:
+      213: -301230590586860282
+    second: Solaria Crops DEMO_3
+  - first:
+      213: -4764451855761610375
+    second: Solaria Crops DEMO_4
+  - first:
+      213: 1879237024195738077
+    second: Solaria Crops DEMO_5
+  - first:
+      213: 4391672357255245482
+    second: Solaria Crops DEMO_6
+  - first:
+      213: 891485745308444183
+    second: Solaria Crops DEMO_7
+  - first:
+      213: -7469195305089863364
+    second: Solaria Crops DEMO_8
+  - first:
+      213: -7258674375630389592
+    second: Solaria Crops DEMO_9
+  - first:
+      213: 6961537510691747046
+    second: Solaria Crops DEMO_10
+  - first:
+      213: 4292933438375630853
+    second: Solaria Crops DEMO_11
+  - first:
+      213: -2770800535949366151
+    second: Solaria Crops DEMO_12
+  - first:
+      213: -5247447911279970617
+    second: Solaria Crops DEMO_13
+  - first:
+      213: -1427710858036387656
+    second: Solaria Crops DEMO_14
+  - first:
+      213: 4930985891065261232
+    second: Solaria Crops DEMO_15
+  - first:
+      213: -9142778058182660815
+    second: Solaria Crops DEMO_16
+  - first:
+      213: -3106573937396222585
+    second: Solaria Crops DEMO_17
+  - first:
+      213: 8061117739972333806
+    second: Solaria Crops DEMO_18
+  - first:
+      213: 6162939709196801785
+    second: Solaria Crops DEMO_19
+  - first:
+      213: -8696572977069464966
+    second: Solaria Crops DEMO_20
+  - first:
+      213: 5098062421479448149
+    second: Solaria Crops DEMO_21
+  - first:
+      213: -4281554053572643623
+    second: Solaria Crops DEMO_22
+  - first:
+      213: -2386114620247520785
+    second: Solaria Crops DEMO_23
+  - first:
+      213: -8546230161675752023
+    second: Solaria Crops DEMO_24
+  - first:
+      213: 3797183690625691949
+    second: Solaria Crops DEMO_25
+  - first:
+      213: -2490581037036288896
+    second: Solaria Crops DEMO_26
+  - first:
+      213: 5566177266855430529
+    second: Solaria Crops DEMO_27
+  - first:
+      213: -385372244569399975
+    second: Solaria Crops DEMO_28
+  - first:
+      213: 1285351960920138316
+    second: Solaria Crops DEMO_29
+  - first:
+      213: -2493923971883283596
+    second: Solaria Crops DEMO_30
+  - first:
+      213: -6626786819195914750
+    second: Solaria Crops DEMO_31
+  - first:
+      213: 2226382646746492938
+    second: Solaria Crops DEMO_32
+  - first:
+      213: 5872789582799331108
+    second: Solaria Crops DEMO_33
+  - first:
+      213: 323144934045119662
+    second: Solaria Crops DEMO_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carrot_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1275fe023e9eb5459d8cd496cff55fa
+      internalID: -709041238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 101
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9673cf89e363424da97f620b05c43c3
+      internalID: -577911391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 102
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf52160f6f75c49814fe82725a18fa
+      internalID: 1777209463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69fff282d18b8344b37d43da74ed914
+      internalID: -278741888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8159a7161c1720d4d8811a114efbc508
+      internalID: 674167404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 102
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b4691f7023b7b48b3639c642b0515c
+      internalID: 725212319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot_Item
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbccd1268e242ec40bb7918ddf0f89fe
+      internalID: 1962242473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carrot_Seeds
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7353cb81c612f42bbffcfad943eebe
+      internalID: 1009225021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975d6e07f0ea8b4cae2874fa6e71739
+      internalID: -176327039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 71
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb771b5a2c44154da136bf7e1694a27
+      internalID: -513680711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 70
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e927dac98f44e64e81133e177000ffe
+      internalID: -1953666426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_Seeds
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cd52810b527004a80fd342e8228a46
+      internalID: 835215902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9211a1f9e4801418e8e52b2c3c5cc2
+      internalID: 1432263505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 39
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085d06c5e5dd0a4ea8c22609796f24b
+      internalID: 273762847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6901d394f416b0148b4e66443eb79144
+      internalID: -162548990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece257dde9631f489b77b06d1ec4583
+      internalID: -43191826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a91df68f8d44742b31f3dd52f5e619
+      internalID: -754613225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 36
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0320b78d4d7b34b8b7a0d864670e26
+      internalID: -1456843591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6464e682a11fc8a41b7c3ebdfcc6d5b7
+      internalID: 1811809790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b9216513994a54ab15c8c3fabc3572
+      internalID: -862203119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf922378d022904aac515d5aa05db71
+      internalID: -49138369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 7
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac85db9a25e21943889912b0f2152b0
+      internalID: -1933729771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3c48f32e8824449ff4248c57e4987
+      internalID: -814668939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e933652969cf4ea9c7cc992e16cbe
+      internalID: 861872490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_33
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789663d809a4add46a885df6bcc61ad5
+      internalID: 847717406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132925677912094686cf335ede017b1
+      internalID: 87992481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_Item
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 66
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7ad943333c1024fa36841a2ea0d1f9
+      internalID: 1392450373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e18d7791ffcc489f697be3b57bcd7
+      internalID: 87647280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants Pack 16x16_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4a4904b02bd4408a26c179593c47e
+      internalID: 183747165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ee4544c834e08f43bb86545467d0a7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carrot_0: -709041238
+      Carrot_1: -577911391
+      Carrot_2: 1777209463
+      Carrot_3: -278741888
+      Carrot_4: 725212319
+      Carrot_Item: 1962242473
+      Carrot_Seeds: 1009225021
+      Plants Pack 16x16_10: -838279508
+      Plants Pack 16x16_11: -1068707118
+      Plants Pack 16x16_12: 1574588571
+      Plants Pack 16x16_16: -1048776602
+      Plants Pack 16x16_19: 1432263505
+      Plants Pack 16x16_20: 273762847
+      Plants Pack 16x16_21: -162548990
+      Plants Pack 16x16_22: -43191826
+      Plants Pack 16x16_23: -754613225
+      Plants Pack 16x16_24: 2031163009
+      Plants Pack 16x16_25: -1456843591
+      Plants Pack 16x16_26: 1811809790
+      Plants Pack 16x16_27: -862203119
+      Plants Pack 16x16_28: -49138369
+      Plants Pack 16x16_29: -1933729771
+      Plants Pack 16x16_30: -814668939
+      Plants Pack 16x16_31: 861872490
+      Plants Pack 16x16_32: 1050182355
+      Plants Pack 16x16_33: 847717406
+      Plants Pack 16x16_34: 87992481
+      Plants Pack 16x16_36: 183747165
+      Plants Pack 16x16_6: -673766254
+      Plants Pack 16x16_9: -1255456545
+      Pumpkin_0: -176327039
+      Pumpkin_1: 87647280
+      Pumpkin_2: -513680711
+      Pumpkin_3: -1953666426
+      Pumpkin_4: 674167404
+      Pumpkin_Item: 1392450373
+      Pumpkin_Seeds: 835215902
+      s: 835215902
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
